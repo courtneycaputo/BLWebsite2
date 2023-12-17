@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/BLWebsite/static/css/main.d013427c.css",
-    "main.js": "/BLWebsite/static/js/main.5438397f.js",
-    "static/js/787.5c5749fb.chunk.js": "/BLWebsite/static/js/787.5c5749fb.chunk.js",
-    "static/media/01_Commercial_Demo.mp3": "/BLWebsite/static/media/01_Commercial_Demo.07f41750287908f4a5be.mp3",
-    "static/media/11_eLearning_Demo.mp3": "/BLWebsite/static/media/11_eLearning_Demo.734b83ba6e34dc768949.mp3",
-    "static/media/10_Nature_Documentary.mp3": "/BLWebsite/static/media/10_Nature_Documentary.feb36a8b7b2bee3ab541.mp3",
-    "static/media/09_Medical_Narration.mp3": "/BLWebsite/static/media/09_Medical_Narration.2f5b8c735f8a0692912c.mp3",
-    "static/media/02_Montana.mp3": "/BLWebsite/static/media/02_Montana.ea6e12c054d6e84c59fd.mp3",
-    "static/media/05_Fidelity.mp3": "/BLWebsite/static/media/05_Fidelity.31daa36180fb81255dc6.mp3",
-    "static/media/04_Alta.mp3": "/BLWebsite/static/media/04_Alta.35e9b1ad3042ed5080fc.mp3",
-    "static/media/08_PETA.mp3": "/BLWebsite/static/media/08_PETA.0c7510f9852c24042496.mp3",
-    "static/media/03_Starbucks.mp3": "/BLWebsite/static/media/03_Starbucks.a1f035d4f15bff8f7d5c.mp3",
-    "static/media/06_Samsung.mp3": "/BLWebsite/static/media/06_Samsung.60d9aa1c3e86e187e89a.mp3",
-    "static/media/12_Promo_Demo.mp3": "/BLWebsite/static/media/12_Promo_Demo.73d1b715e8b91db36f15.mp3",
-    "static/media/07_Marshalls.mp3": "/BLWebsite/static/media/07_Marshalls.3877936ab17b833ee04b.mp3",
-    "static/media/headergraphic.png": "/BLWebsite/static/media/headergraphic.1b4d77d4e05548c706d0.png",
-    "static/media/headshot.png": "/BLWebsite/static/media/headshot.6a60a5ddee739bf511b5.png",
-    "index.html": "/BLWebsite/index.html",
-    "main.d013427c.css.map": "/BLWebsite/static/css/main.d013427c.css.map",
-    "main.5438397f.js.map": "/BLWebsite/static/js/main.5438397f.js.map",
-    "787.5c5749fb.chunk.js.map": "/BLWebsite/static/js/787.5c5749fb.chunk.js.map"
+    "main.css": "/BLWebsite2/static/css/main.d013427c.css",
+    "main.js": "/BLWebsite2/static/js/main.8a39c01c.js",
+    "static/js/787.5c5749fb.chunk.js": "/BLWebsite2/static/js/787.5c5749fb.chunk.js",
+    "static/media/01_Commercial_Demo.mp3": "/BLWebsite2/static/media/01_Commercial_Demo.07f41750287908f4a5be.mp3",
+    "static/media/11_eLearning_Demo.mp3": "/BLWebsite2/static/media/11_eLearning_Demo.734b83ba6e34dc768949.mp3",
+    "static/media/10_Nature_Documentary.mp3": "/BLWebsite2/static/media/10_Nature_Documentary.feb36a8b7b2bee3ab541.mp3",
+    "static/media/09_Medical_Narration.mp3": "/BLWebsite2/static/media/09_Medical_Narration.2f5b8c735f8a0692912c.mp3",
+    "static/media/02_Montana.mp3": "/BLWebsite2/static/media/02_Montana.ea6e12c054d6e84c59fd.mp3",
+    "static/media/05_Fidelity.mp3": "/BLWebsite2/static/media/05_Fidelity.31daa36180fb81255dc6.mp3",
+    "static/media/04_Alta.mp3": "/BLWebsite2/static/media/04_Alta.35e9b1ad3042ed5080fc.mp3",
+    "static/media/08_PETA.mp3": "/BLWebsite2/static/media/08_PETA.0c7510f9852c24042496.mp3",
+    "static/media/03_Starbucks.mp3": "/BLWebsite2/static/media/03_Starbucks.a1f035d4f15bff8f7d5c.mp3",
+    "static/media/06_Samsung.mp3": "/BLWebsite2/static/media/06_Samsung.60d9aa1c3e86e187e89a.mp3",
+    "static/media/12_Promo_Demo.mp3": "/BLWebsite2/static/media/12_Promo_Demo.73d1b715e8b91db36f15.mp3",
+    "static/media/07_Marshalls.mp3": "/BLWebsite2/static/media/07_Marshalls.3877936ab17b833ee04b.mp3",
+    "static/media/headergraphic.png": "/BLWebsite2/static/media/headergraphic.1b4d77d4e05548c706d0.png",
+    "static/media/headshot.png": "/BLWebsite2/static/media/headshot.6a60a5ddee739bf511b5.png",
+    "index.html": "/BLWebsite2/index.html",
+    "main.d013427c.css.map": "/BLWebsite2/static/css/main.d013427c.css.map",
+    "main.8a39c01c.js.map": "/BLWebsite2/static/js/main.8a39c01c.js.map",
+    "787.5c5749fb.chunk.js.map": "/BLWebsite2/static/js/787.5c5749fb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d013427c.css",
-    "static/js/main.5438397f.js"
+    "static/js/main.8a39c01c.js"
   ]
 }
