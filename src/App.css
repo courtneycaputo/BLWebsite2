@@ -245,9 +245,9 @@ button svg {
 
 
 
-
+/* ORIGINAL MEDIA QUERY */
 /* Add media queries for responsive layout */
-@media (max-width: 768px) {
+/* @media (max-width: 768px) {
   .nav-links {
     display: none;
     flex-direction: column;
@@ -273,5 +273,62 @@ button svg {
     margin-left: 20px;
     color: #fff;
     font-size: 20px;
+  }
+} */
+
+/* NEW MEDIA QUERY */
+/* @media screen and (max-width: 768px) {
+  nav {
+    display: none;
+  }
+
+  nav ul {
+    flex-direction: column;
+    align-items: flex-end;
+    position: absolute;
+    top: 4rem;
+    left: 0;
+    width: 100%;
+    background-color: turquoise;
+  }
+
+  nav a {
+    margin: 0.5rem 1rem;
+  }
+
+  .about-content {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .about-image {
+    /* Adjust styles for the image */
+  /* }
+} */ 
+
+@media (max-width: 768px) {
+  .nav-links {
+    flex-direction: column;
+    align-items: flex-end;
+    margin-top: 10px;
+  }
+
+  .nav-links a {
+    margin: 10px 0;
+  }
+
+  .about-content {
+    flex-direction: column;
+    text-align: center;
+  }
+}
+
+@media (max-width: 480px) {
+  .navbar {
+    padding: 10px;
+  }
+  
+  .section {
+    padding: 20px;
   }
 }
